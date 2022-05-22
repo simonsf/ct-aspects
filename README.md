@@ -29,7 +29,7 @@ This repository is for the proposed DA-Net used for AI-assisted ASPECTS in NCCT.
 This repository is based on PyTorch 1.1.0, developed in Ubuntu 16.04 environment. 
 
 
--  cuda(required by pytorch), cudnn, numpy, scipy, sklearn, tqdm, pillow, matplotlib, ipython, ...
+-  cuda (required by pytorch), cudnn, numpy, scipy, sklearn, tqdm, pillow, matplotlib, ipython.
 
 -----------------------
 
