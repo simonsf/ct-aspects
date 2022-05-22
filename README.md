@@ -18,7 +18,7 @@ This repository is for the proposed DA-Net used for AI-assisted ASPECTS in NCCT.
 
 -  [train_cortical.py:](https://github.com/simonsf/ct-aspects/blob/main/train_cortical.py) contains the functions to train the network, and also needs to be fitness to your task and data with some changes.
 
--  [test.py:](https://github.com/simonsf/ct-aspects/blob/main/test.py)contain the functions to test the trained model, and also needs to be fitness to your task and data with some changes.
+-  [test.py:](https://github.com/simonsf/ct-aspects/blob/main/test.py) contain the functions to test the trained model, and also needs to be fitness to your task and data with some changes.
 
 - [config.py:](https://github.com/simonsf/ct-aspects/blob/main/test.py) contain configurations during the training.  
 
