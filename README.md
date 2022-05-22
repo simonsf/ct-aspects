@@ -3,7 +3,7 @@
 
 This repository is for the proposed DA-Net used for AI-assisted ASPECTS in NCCT.
 
-[Cao Z, Xu J, Song B, Chen L, Sun T, He Y, Wei Y, Niu G, Zhang Y, Feng Q, Ding Z. Deep learning derived automated ASPECTS on non‐contrast CT scans of acute ischemic stroke patients. *Human Brain Mapping; 2022 Mar 31*.](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25845)
+[Cao, Z., Xu, J., Song, B., Chen, L., Sun, T., He, Y., Wei, Y., Niu, G., Zhang, Y., Feng, Q., Ding, Z., Shi, F., & Shen, D. (2022). Deep learning derived automated ASPECTS on non-contrast CT scans of acute ischemic stroke patients. Human Brain Mapping, 1–14. https://doi.org/10.1002/hbm.25845](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25845)
 
 
 -------------------------------
