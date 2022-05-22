@@ -1,5 +1,3 @@
-# ct-aspects
-
 # DA-Net
 ### Introduction
 
