@@ -1,0 +1,3 @@
+Score: 5
+Affected: Left side. 
+Region: I, L, M2, M3, M6
