@@ -6,8 +6,6 @@ This repository is for the proposed DA-Net used for AI-assisted ASPECTS in NCCT.
 [Cao Z, Xu J, Song B, Chen L, Sun T, He Y, Wei Y, Niu G, Zhang Y, Feng Q, Ding Z. Deep learning derived automated ASPECTS on non‐contrast CT scans of acute ischemic stroke patients. *Human Brain Mapping; 2022 Mar 31*.](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25845)
 
 
-![此处填入框图地址](https://github.com/simonsf/ct-aspects/tree/main/img.png)
-
 -------------------------------
 
 ### Content
@@ -35,4 +33,4 @@ This repository is based on PyTorch 1.1.0, developed in Ubuntu 16.04 environment
 
 -----------------------
 
-Due to potential commercial issue, the trained model on large dataset was not included.
+Note that due to potential commercial issue, the trained model on large dataset was not included.
